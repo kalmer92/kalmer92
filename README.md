@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Kalmer Martonov
+# 👋 Hi, I'm a Senior Devops Engineer
 
-Senior DevOps Engineer with 7+ years of experience building, automating, and scaling cloud-native infrastructure across fintech, healthcare, and SaaS platforms.
+Senior DevOps Engineer with 8+ years of experience designing and scaling cloud-native platforms.
+I specialize in Kubernetes, Terraform, CI/CD automation, and platform engineering, helping teams build reliable and scalable systems.
 
 ## 🚀 What I Do
 - Design and maintain CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins)
@@ -18,10 +19,7 @@ Senior DevOps Engineer with 7+ years of experience building, automating, and sca
 **Datastores:** PostgreSQL, Redis
 
 ## 📍 Location
-Estonia
-
-## 📫 Contact
-- Email: kalmermartonov8@gmail.com
+Romania
 
 ---
 ⭐ Always improving system reliability, deployment speed, and developer experience.
