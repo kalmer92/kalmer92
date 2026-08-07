@@ -19,7 +19,7 @@ I specialize in Kubernetes, Terraform, CI/CD automation, and platform engineerin
 **Datastores:** PostgreSQL, Redis
 
 ## 📍 Location
-Romania
+Estonia
 
 ---
 ⭐ Always improving system reliability, deployment speed, and developer experience.
