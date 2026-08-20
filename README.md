@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Senior Devops Engineer
+# 👋 Hi, I'm a Senior Devops / Platform Engineer
 
 Senior DevOps Engineer with 8+ years of experience designing and scaling cloud-native platforms.
 I specialize in Kubernetes, Terraform, CI/CD automation, and platform engineering, helping teams build reliable and scalable systems.
@@ -19,7 +19,7 @@ I specialize in Kubernetes, Terraform, CI/CD automation, and platform engineerin
 **Datastores:** PostgreSQL, Redis
 
 ## 📍 Location
-Estonia
+Romania
 
 ---
 ⭐ Always improving system reliability, deployment speed, and developer experience.
